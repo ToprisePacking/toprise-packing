@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://toprisepacking.com/sitemap.xml
